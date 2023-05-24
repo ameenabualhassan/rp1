@@ -18,4 +18,6 @@ public class MAIN {
 
     };
 
+    Random random = new Random();
+
 }
