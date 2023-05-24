@@ -17,7 +17,7 @@ public class MAIN {
             "The Git community is active and constantly evolving the tool to meet developers' needs."
 
     };
-
+    Random random = new Random();
     System.out.print("here is a random Git flash card, Enjoy! : ");
     System.out.println(quotes[random.nextInt(gitFlashCards.length)]);
 
