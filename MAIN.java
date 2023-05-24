@@ -1,5 +1,6 @@
 package rp1;
 
+import java.util.Random;
 public class MAIN {
 
     String[] gitFlashCards = {
