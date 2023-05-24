@@ -18,4 +18,7 @@ public class MAIN {
 
     };
 
+    System.out.print("here is a random Git flash card, Enjoy! : ");
+    System.out.println(quotes[random.nextInt(gitFlashCards.length)]);
+
 }
